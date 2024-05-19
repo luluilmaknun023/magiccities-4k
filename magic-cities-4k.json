@@ -66,7 +66,7 @@
     {
       "id": 3,
       "name_category": "Tokyo",
-      "image": "https://storage.googleapis.com/pai-images/27a45b81b4f546a5a0adcbaa755033ab.png",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/00c82487-ecf0-4d24-83e2-86a2580e0395/SDXL_09_Discover_the_tranquility_of_Tokyos_traditional_gardens_0.jpg",
 
     },
 	{
@@ -85,24 +85,7 @@
 
   "Data":
   [
-    {
-      "id":1,
-      "name_category": "New York",
-      "title":"New York City skyline at sunset",
-      "image":"https://storage.googleapis.com/pai-images/ab662e184a12441f87d198708f0f8c3a.jpeg",
-    },
-    {
-      "id": 2,
-      "name_category": "Paris",
-      "title": "An enchanting image of the Eiffel Tower",
-      "image": "https://storage.googleapis.com/pai-images/6e18583fe7f2458d9ea2d207ec21c82e.png",
-    },
-    {
-      "id":3,
-      "name_category": "Tokyo",
-      "title":"Streets of Tokyo with a lively cityscape",
-      "image":"https://storage.googleapis.com/pai-images/27a45b81b4f546a5a0adcbaa755033ab.png",
-    },
+    
     {
       "id":4,
       "name_category": "Rome",
@@ -344,57 +327,6 @@
       "name_category": "Paris",
       "title": "Paris Montparnasse district",
       "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/31d56735-abc4-43b4-b8d8-725a5b1cabd7/DreamShaper_v7_Experience_the_artistic_ambiance_of_Paris_Montp_0.jpg?w=512",
-    },
-    {
-      "id":43,
-      "name_category": "Tokyo",
-      "title":"Tokyo Harajuku neighborhood",
-      "image":"https://storage.googleapis.com/pai-images/5fec70ce7aa44fe6b9b19f2df91c2dab.png",
-    },
-    {
-      "id":44,
-      "name_category": "Rome",
-      "title":"St Peters Square in Vatican City",
-      "image":"https://storage.googleapis.com/pai-images/2cb4ff749e1f4e99a24fd7ccfe5f2c9e.png",
-    }
-  ,
-    {
-      "id":45,
-      "name_category": "Dubai",
-      "title":"Dubai Palm Jumeirah",
-      "image":"https://storage.googleapis.com/pai-images/089c5ce609624f16861596838924a3a4.png",
-    },
-	{
-      "id":46,
-      "name_category": "New York",
-      "title":"Bethesda Terrace in Central Park",
-      "image":"https://storage.googleapis.com/pai-images/cd83b905f5214f36905d4148fecea76a.png",
-    },
-	{
-      "id": 47,
-      "name_category": "Paris",
-      "title": "Musée de l Orangerie in Paris",
-      "image": "https://storage.googleapis.com/pai-images/1b739890b3114063b2c63a2b797f919c.png",
-    },
-    {
-      "id":48,
-      "name_category": "Tokyo",
-      "title":"Tokyo Yanaka neighborhood",
-      "image":"https://storage.googleapis.com/pai-images/a7a21bd454ab468f9f056ea1bd3cea68.png",
-    },
-    {
-      "id":49,
-      "name_category": "Rome",
-      "title":"Colosseum in Rome",
-      "image":"https://storage.googleapis.com/pai-images/824133888c944ce7833c583cb5cba3a9.png",
-    }
-  ,
-    {
-      "id":50,
-      "name_category": "Dubai",
-      "title":"Burj Khalifa in Dubai",
-      "image":"https://storage.googleapis.com/pai-images/d722fe6a0de345968452d8ee8c3af57f.png",
-      "lock":false
     }
   ]
 }
